@@ -1,0 +1,14 @@
+D:\Usuario\Desktop\Refazendo_validaCPF\obj\Debug\net8.0\Refazendo_validaCPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Desktop\Refazendo_validaCPF\obj\Debug\net8.0\Refazendo_validaCPF.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\Refazendo_validaCPF\obj\Debug\net8.0\Refazendo_validaCPF.AssemblyInfo.cs
+D:\Usuario\Desktop\Refazendo_validaCPF\obj\Debug\net8.0\Refazendo_validaCPF.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Refazendo_validaCPF\bin\Debug\net8.0\Refazendo_validaCPF.exe
+D:\Usuario\Desktop\Refazendo_validaCPF\bin\Debug\net8.0\Refazendo_validaCPF.deps.json
+D:\Usuario\Desktop\Refazendo_validaCPF\bin\Debug\net8.0\Refazendo_validaCPF.runtimeconfig.json
+D:\Usuario\Desktop\Refazendo_validaCPF\bin\Debug\net8.0\Refazendo_validaCPF.dll
+D:\Usuario\Desktop\Refazendo_validaCPF\bin\Debug\net8.0\Refazendo_validaCPF.pdb
+D:\Usuario\Desktop\Refazendo_validaCPF\obj\Debug\net8.0\Refazendo_validaCPF.dll
+D:\Usuario\Desktop\Refazendo_validaCPF\obj\Debug\net8.0\refint\Refazendo_validaCPF.dll
+D:\Usuario\Desktop\Refazendo_validaCPF\obj\Debug\net8.0\Refazendo_validaCPF.pdb
+D:\Usuario\Desktop\Refazendo_validaCPF\obj\Debug\net8.0\Refazendo_validaCPF.genruntimeconfig.cache
+D:\Usuario\Desktop\Refazendo_validaCPF\obj\Debug\net8.0\ref\Refazendo_validaCPF.dll
